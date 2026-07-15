@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Maina</h1>
 <h3 align="center">Junior Full-Stack Developer | React • Flask • Python | Building Scalable Web Applications</h3>
 
-<p align="center">
-  <a href="https://github.com/Maina-nganga">
-    <img src="https://komarev.com/ghpvc/?username=Maina-nganga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Junior Full-Stack Developer** from **Nairobi, Kenya**, with experience building responsive web applications using **React**, **Flask**, and **SQL databases**.
@@ -32,10 +24,10 @@ I enjoy transforming ideas into practical solutions while continuously learning 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,flask,django,php,laravel,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,flask," />
 </p>
 
-### Database
+
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase" />
@@ -44,7 +36,7 @@ I enjoy transforming ideas into practical solutions while continuously learning 
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,vercel,netlify,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,netlify," />
 </p>
 
 ---
