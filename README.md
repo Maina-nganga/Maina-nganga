@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Maina</h1>
+<h1 align="center">Hi 👋, I'm  Maina Nganga</h1>
 <h3 align="center">Junior Full-Stack Developer | React • Flask • Python | Building Scalable Web Applications</h3>
 
 ## 👨‍💻 About Me
