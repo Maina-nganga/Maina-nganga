@@ -69,15 +69,7 @@ I enjoy transforming ideas into practical solutions while continuously learning 
 
 
 
-# 📊 Activity Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maina-nganga&theme=github-compact"/>
-
-</p>
-
----
 
 
 
