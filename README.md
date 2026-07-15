@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maina Nganga</h1>
 <h3 align="center">A passionate Fullstack developer from Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maina-nganga" alt="maina-nganga" /></a> </p>
+
 
 - 📫 How to reach me **ngangamaina091@gmail.com**
 
