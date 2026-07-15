@@ -67,15 +67,7 @@ I enjoy transforming ideas into practical solutions while continuously learning 
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maina-nganga&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 📊 Activity Graph
 
@@ -87,15 +79,6 @@ I enjoy transforming ideas into practical solutions while continuously learning 
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Maina-nganga/Maina-nganga/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 
 
